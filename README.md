@@ -29,10 +29,10 @@ BNSM_Events
 - calc_gal.py (For particular SFH, calculate the BNSM rate density for a region of the n, t_min parameter space the likelihood, figure-of-merit, and 1sigma uncertainties on n and t_min)
 
 Plots
-- fig1.py (for 2PCF in linear rp,r_pi 2D space)
-- fig2.py (for 2PCF (wp,xi_0,xi_2,xi_4) measurement as function of rp or s)
-- fig3.py (for fsig_8 estimator)
-- fig5.py (for chi^2 and n_g values from HOD/SCAM fits)
+- rate2d_plot.py (For BNSM rate density PDF across CMD for 3 truth models; Fig. 1.)
+- rate1d_mlt.py (For BNSM rate density PDF across 5 gal. props. for 3 truth models; Fig. 2.)
+- cont_mlt_plot.py (For DTD likelihood constraint contours for perGAL, M_r, g-r, (M_r,g-r), M_*, and sSFR; Fig. 3.)
+- FOM_plot.py (For FOM and 1sigma DTD calculations plot; Fig. 4)
  
 
 
