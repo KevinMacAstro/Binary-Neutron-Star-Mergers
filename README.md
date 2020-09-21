@@ -17,8 +17,16 @@ I find that the strongest constraints on DTD occur when we consider the SFH of i
 CODE FILES
 -----------------------------------------------------------
 Fileprep_Galaxies
+- assign_vespa.py (Match VESPA stellar mass formed in lookback bins of galaxies with their SDSS properties. Remove contaminated SFHs; cosmic rays, etc.)
+- fileprep.py (Calculate SFH for individual galaxies)
+- fileprep_cmd.py (Calculate SFH for galaxies binned by (M_r,g-r))
+- fileprep_gr.py (Calculate SFH for galaxies binned by g-r)
+- fileprep_sm.py (Calculate SFH for galaxies binned by M_*)
+- fileprep_ssfr.py (Calculate SFH for galaxies binned by sSFR)
+- fileprep_mr.py (Calculate SFH for galaxies binned by M_r)
 
-
+BNSM_Events
+- calc_gal.py (For particular SFH, calculate the BNSM rate density for a region of the n, t_min parameter space the likelihood, figure-of-merit, and 1sigma uncertainties on n and t_min)
 
 Plots
 - fig1.py (for 2PCF in linear rp,r_pi 2D space)
