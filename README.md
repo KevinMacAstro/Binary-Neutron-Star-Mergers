@@ -1,7 +1,7 @@
-# Paper2_DTDofBNSM https://arxiv.org/abs/2007.15024
 Constraining Delay Time Distribution of Binary Neutron Star Mergers from Host Galaxy Properties 
 Kevin Spencer McCarthy, Zheng Zheng, and Enrico Ramirez-Ruiz
-Submitted MNRAS, MN-20-3071-MJ
+Accepted MNRAS, 499, 2020 October 16, 5220-5229
+https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.5220M/abstract
 ----------------------------------------------------------------------------
 
 This project involved the likelihood calculations of particular delay-time distributions (DTD) of binary neutron star mergers (BNSM) models of 3 simulated universes; a slow DTD, a canonical DTD, and a fast DTD. An 'observation' of the truth models (slow, canonical, and fast) are performed and the possible DTDs are constrained by producing a prediction for the BNSM event rate PDF through a convolution of the star formation history of a galaxy (SFH) or a galaxy property bin (<SFH>) with a power-law form of the DTD with two free variables, the power law index (n) and the minimum delay time (t_min) for an event to occur following the formation of stars from gas, following the procedure employed by Zheng & Ramirez_Ruiz (2007). We also evaluate how these constraints improve with an increase in # of BNSM multi-messenger event detections (N_obs). We employ the SFHs (VESPA; Tojeiro R. et al. 2009) of ~500k galaxies of the SDSS DR7 main galaxy catalog. 
