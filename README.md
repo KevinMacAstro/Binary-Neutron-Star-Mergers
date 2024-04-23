@@ -1,6 +1,9 @@
 Constraining Delay Time Distribution of Binary Neutron Star Mergers from Host Galaxy Properties 
+
 Kevin Spencer McCarthy, Zheng Zheng, and Enrico Ramirez-Ruiz
+
 Accepted MNRAS, 499, 2020 October 16, 5220-5229
+
 https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.5220M/abstract
 ----------------------------------------------------------------------------
 
